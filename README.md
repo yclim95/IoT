@@ -188,6 +188,22 @@ TRUE
 3. ALL (ANSWER)
 ```
 
+# Three of these choices are key concept in IoT tech. Which is not?
+```
+1. An IoT producer has 4 main components
+2. The IoT has high connectivity & low analytics (ANSWER)
+3. The software-defined product is the heart of IoT
+4. When designing IoT, Think top down
+```
+
+# Which other areas of IoT tech should be further investigated?
+```
+1. Analytic & Big Data
+2. IoT Cybersecurity
+3. Protocol analysis 
+4. ALL
+```
+
 
 
 ## Project
