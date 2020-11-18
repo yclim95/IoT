@@ -1,6 +1,7 @@
 
 # IoT
 https://applikeysolutions.com/blog/how-to-develop-an-internet-of-things-iot-application
+https://www.iot-inc.com/
 
 ```
 1. Smart Homes
